@@ -1,0 +1,37 @@
+# Node.js and npm files
+node_modules/
+npm-debug.log
+
+# TypeScript and JavaScript files
+*.tsbuildinfo
+*.js.map
+
+# Vite files
+/dist/
+/vite/
+
+# Enoki frontend files
+/enoki_frontend/dist/
+/enoki_frontend/node_modules/
+
+# Smart contract files
+/smart_contract/build/
+/smart_contract/
+
+# Enoki sponsor backend files
+/enoki-sponsor-backend/dist/
+/enoki-sponsor-backend/node_modules/
+
+# IDE and editor files
+.vscode/
+.idea/
+.editorconfig
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous files
+README.md~
+*.log
+*.tmp
