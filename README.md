@@ -46,6 +46,7 @@ This will start the development server and you can access the API at `http://loc
 * [Google Cloud Console](https://console.cloud.google.com/)
 * [Enoki Portal](https://portal.enoki.mystenlabs.com/)
 * [Mysten Labs Dapp Kit](https://sdk.mystenlabs.com/dapp-kit)
+* [Enoki Tutorial Playlist](https://www.youtube.com/playlist?list=PLJm5g76LAUur4YzeloQBcPbO5QMutYiNN)
 
 ## YouTube Playlist
 
