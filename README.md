@@ -25,8 +25,6 @@ The smart contract is built using Move and can be compiled and tested using the 
 
 ```bash
 cd smart_contract
-move compile
-move test
 ```
 
 ### Enoki Sponsor Backend
